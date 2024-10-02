@@ -11,10 +11,11 @@ This report summarizes the key differences between customers who accepted and di
 - Acceptance rate for those visiting more than 3 times a month: 64.23%
 - Acceptance rate for those visiting 3 or fewer times a month: 42.29%
 ### 3. Education Level
--  Customers with higher education levels had lower coupon acceptance rates.
+- Customers with higher education levels had lower coupon acceptance rates.
 ![Acceptance Rates by Education](images/restaurant20to50_education_acceptance_rate.png)
 ### 4. Age
-- Younger adults (21-31) were more likely to accept coupons compared to older age groups. The 50+ age group had the lowest acceptance rate.
+- Younger adults (21-31) were more likely to accept coupons compared to older age groups. 
+- The 50+ age group had the lowest acceptance rate.
 ![Acceptance Rates by Age](images/restaurant20to50_acceptance_by_age.png)
 ### 5. Income
 - Low to Middle-income groups ($25,000 - $87,499) showed higher acceptance rates.
